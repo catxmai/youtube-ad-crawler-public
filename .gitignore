@@ -3,13 +3,7 @@ keys.py
 /chromedriver_win32
 /UserData*
 /log*
-/output*
-/gcp_logs
-/pretty_output
-/unavailable_screenshots*
-/error_screenshots*
 /configs
-/ads_test
 /.ipynb_checkpoints
 /analysis/.ipynb_checkpoints
 
